@@ -9,6 +9,7 @@ public class DemApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DemApplication.class, args);
         System.out.println("Hello from IntelliJ!");
+
 	}
 
 }
