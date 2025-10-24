@@ -10,6 +10,8 @@ public class DemApplication {
 		SpringApplication.run(DemApplication.class, args);
         System.out.println("Hello from IntelliJ!");
 
+
+
 	}
 
 }
